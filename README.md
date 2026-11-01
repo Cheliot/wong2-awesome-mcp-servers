@@ -392,6 +392,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Home Assistant](https://github.com/voska/hass-mcp)** - Interact with Home Assistant to control smart home devices, query states, manage automations, and troubleshoot your smart home setup.
 - **[Homey](https://github.com/pigmej/python-homey-mcp)** - Interact with Homey to control smart home system. Supports devices, flows, and zones. Contains a few goodies for better integrations with LLMs.
 - **[Homebrew MCP](https://github.com/jeannier/homebrew-mcp)** - Interact with Homebrew (the package manager for macOS and Linux) using natural language commands.
+- **[Homo Universalis — Viveka](https://github.com/David-Porto-Baraldes/Viveka_Web)** - Deterministic Swiss Ephemeris (`pyswisseph`, `< 1.5 ms`) astronomical and 7-Wisdoms calculation server (`https://homouniversalis.ai/mcp`, Zero-Auth Streamable HTTP, Linux Foundation OpenSSF Gold `#16118 — 300%`).
 - **[HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace)** - Server for using HuggingFace Spaces, supporting Images, Audio, Text and more. Claude Desktop mode for ease-of-use.
 - **[Imagician](https://github.com/flowy11/imagician)** - A MCP server for comprehensive image editing operations including resizing, format conversion, cropping, compression, and more based on sharp.
 - **[ImageSorcery MCP](https://github.com/sunriseapps/imagesorcery-mcp)** - ComputerVision-based 🪄 sorcery of image recognition and editing tools for AI assistants.
